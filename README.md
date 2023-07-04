@@ -10,15 +10,12 @@ I'm a highly motivated individual with expertise in various programming language
 
 - Bachelor of Computer Engineering: Dnyanshree Institute Of Engineering And Technology, 2021-2025
 - Senior Secondary (XII): Yashwantrao Chavan Institute Of Science And Technology, 2019-2021
-- Secondary (X): Saint Paul's School Satara, 2017-2019
+
 
 ## 💡 Skills
 
 - Programming: C, HTML, CSS
 - Web Development: Java, JavaScript, PHP, ReactJS
-- Communication: Strong written and verbal skills
-- Adaptability: Quick learner, open to new challenges
-
 ## 💻 Projects
 
 - Personal Portfolio: [Check it out!](https://premshinde-portfolio.netlify.app/)
