@@ -4,7 +4,7 @@ I'm Prem Shinde, a passionate computer engineering student 🎓 with a love for 
 
 ## 💼 Professional Summary
 
-I'm a highly motivated individual with expertise in various programming languages like C, HTML, and CSS. With a strong foundation in web development,including proficiency in Java, JavaScript, PHP, and ReactJS, I'm ready to tackle any project that comes my way. 
+I'm a highly motivated individual with expertise in various programming languages like C, HTML, and CSS.With a strong foundation in web development,including proficiency in Java, JavaScript, PHP, and ReactJS, I'm ready to tackle any project that comes my way. 
 
 ## 📚 Education
 
